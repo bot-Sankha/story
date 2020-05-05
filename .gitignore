@@ -1,0 +1,4 @@
+.key.txt
+
+#key files to be ignored
+*.java
